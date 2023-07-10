@@ -1,4 +1,4 @@
-# Git
+# masterブランチです。
 
 ## VScodeのギット接続
 
